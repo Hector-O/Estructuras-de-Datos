@@ -324,7 +324,7 @@ eliminarDeArbol (struct arbol *raiz, int dato)
   buscado = buscarArbol (raiz, dato);
   if (buscado == NULL)
     {
-      return NULL;
+      return raiz;
     }
 
 
