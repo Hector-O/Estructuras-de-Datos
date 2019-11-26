@@ -123,7 +123,7 @@ borrarDatoListaL (struct listaLigada *LISTAL, int n)
   if (buscado == NULL)
     {
       printf ("No se encontro el dato a borrar");
-      return NULL;
+      return LISTAL;
     }
   printf ("Se va a borrar: %d\n", n);
 
