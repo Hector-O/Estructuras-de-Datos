@@ -12,4 +12,5 @@ Repositorio de Estructura de datos con el profesor Norman, implementación de:
 5. Lista doblemente ligada circular
 6. Pila
 7. Fila
-8. Arbol
+8. Tabla hash abierta
+9. Arbol
